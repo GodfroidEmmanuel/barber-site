@@ -407,6 +407,7 @@ header #arrow {
     font-size: 5.5rem;
     background-image: linear-gradient(to right, #373737, #c0b283);
     -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
     margin-bottom: 0;
 }
@@ -499,6 +500,7 @@ header #arrow {
     font-size: 5.5rem;
     background-image: linear-gradient(to right, #373737, #c0b283);
     -webkit-background-clip: text;
+    background-clip: text;
     color: transparent;
 }
 
